@@ -1,0 +1,23 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 20px;
+    color: black;
+}
+
+.textbox {
+    border: 1px solid #848484;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    outline: 0;
+    height: 25px;
+    width: 275px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
